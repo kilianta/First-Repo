@@ -1,1 +1,6 @@
-
+print("Mời bạn nhập vào số thứ 1:")
+soThu1 = float(input())
+print("Mời bạn nhập vào phép tính:")
+phepTinh = float(input())
+print("Mời bạn nhập vào số thứ 2:")
+soThu2 = float(input())
